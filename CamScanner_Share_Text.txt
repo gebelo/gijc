@@ -1,0 +1,29 @@
+Homicide
+Murder 31 0
+Manslaughter 0 0
+Rape
+Rape 68 19
+Attempted Rape 7 0
+Total 75 19
+Robbery
+Firearm 277 33
+KniE or Cutting Instrument 68 6
+Other Dangerous Weapon 63 3
+Stiong Arm (Hands, Fists, etc.) 478 37
+Total 886
+Assault
+Gun 254 32
+Knife or Cutting Instrument 206 20
+Other Dangerous Weapon 356 20
+Aggravated (Hands, Fists, Feel etc.) 313 20
+Total 1 129
+Assault_Simple
+Simple (Hands, Fists, Feel etc.) 4835 399
+Burglary
+Forcible Entry 1555 134
+Unlawful Entry 1032 112
+A«empted Forcible Entry 292 19
+Total 2879 265
+Larceny-Theft
+Larceny.'Reft 10715 941
+Motor Vehic e U
