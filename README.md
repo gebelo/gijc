@@ -1,5 +1,5 @@
 
-<h2>Handouts/Tipsheets for the <a href="http://gijc2015.org/">2015 Global Investigative Journalism Conference</a> <h2><br>
+<h3>Handouts/Tipsheets for the <a href="http://gijc2015.org/">2015 Global Investigative Journalism Conference</a> </h3><br>
 
 The following files are here:<br>
 
@@ -7,5 +7,7 @@ The following files are here:<br>
 
 I also have the <a href="https://github.com/gebelo/gijc/blob/master/Z-Scores.ppt"> powerpoint</a> from a lightning talk I'm giving about standardizing data with z-scores, along with a <a href="https://github.com/gebelo/gijc/blob/master/zscores.xlsx"> sample spreadsheet</a>.<br>
 
-During the conference, I will also be helping Nils Mulvad teach classes on using Document Cloud and Google Refine. You can find his material <a href="http://www.kaasogmulvad.dk/en/2015/09/training-at-global-investigative-journalism-conference-in-lillehammer-2015/"> here.</a>
+And I will help Crina Boros teach an SQL class -- the exercise is <a href="https://github.com/gebelo/gijc/blob/master/Boros%20%26%20Gebeloff_sql.docx">here</a>.<br>
+
+During the conference, I will also be helping Nils Mulvad teach classes on using Document Cloud and Google Refine. You can find his material <a href="http://www.kaasogmulvad.dk/en/2015/09/training-at-global-investigative-journalism-conference-in-lillehammer-2015/"> here.</a> 
 
