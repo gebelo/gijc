@@ -3,3 +3,9 @@ Handouts/Tipsheets for the 2015 Global Investigative Journalism Conference
 
 The following files are here:
 
+<a href="https://github.com/gebelo/gijc/blob/master/pdf_wrangling.docx">PDF Wrangling</a>: A look at various tools for dealing with PDF documents. During the presentation, I will show some example files -- including a <a href="https://github.com/gebelo/gijc/blob/master/CamScanner_Share_Text.txt"> text file</a> scanned from my phone and <a href="https://github.com/gebelo/gijc/blob/master/camscanner_parsed.xlsx"> what it looks like </a> parsed; a <a href="https://github.com/gebelo/gijc/blob/master/njcrimes.pdf"> PDF file</a> of New Jersey crime statistics; and an example of the <a href="https://github.com/gebelo/gijc/blob/master/cogniview_v_able.xlsx"> the problems you run into </a> with one program that magically gets fixed when using another.<br>
+
+I also have the <a href="https://github.com/gebelo/gijc/blob/master/Z-Scores.ppt"> powerpoint</a> from a lightning talk I'm giving about standardizing data with z-scores, along with a <a href="https://github.com/gebelo/gijc/blob/master/zscores.xlsx"> sample spreadsheet</a>.<br>
+
+During the conference, I will also be helping Nils Mulvad teach classes on using Document Cloud and Google Refine. You can find his material <a href="http://www.kaasogmulvad.dk/en/2015/09/training-at-global-investigative-journalism-conference-in-lillehammer-2015/"> here.</a>
+
