@@ -9,5 +9,7 @@ I also have the <a href="https://github.com/gebelo/gijc/blob/master/Z-Scores.ppt
 
 And I will help Crina Boros teach an SQL class -- the exercise is <a href="https://github.com/gebelo/gijc/blob/master/Boros%20%26%20Gebeloff_sql.docx">here</a>.<br>
 
-During the conference, I will also be helping Nils Mulvad teach classes on using Document Cloud and Google Refine. You can find his material <a href="http://www.kaasogmulvad.dk/en/2015/09/training-at-global-investigative-journalism-conference-in-lillehammer-2015/"> here.</a> 
+During the conference, I will also be helping Nils Mulvad teach classes on using Document Cloud and Google Refine. You can find his material <a href="http://www.kaasogmulvad.dk/en/2015/09/training-at-global-investigative-journalism-conference-in-lillehammer-2015/"> here.</a> <br>
+
+Please send you comments/complaints/updates to me at rgebeloff@nytimes.com<br>
 
